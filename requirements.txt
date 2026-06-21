@@ -1,3 +1,4 @@
 flask
-delta-rest-client
 gunicorn
+requests
+delta-rest-client
